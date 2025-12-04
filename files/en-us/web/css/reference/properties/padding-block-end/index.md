@@ -81,7 +81,7 @@ padding-block-end: unset;
 
 ## Description
 
-The `padding-block-end` property takes the same values as physical padding properties such as {{cssxref("padding-top")}}. However, it can be equivalent to {{cssxref("padding-bottom")}}, `padding-top`, {{cssxref("padding-left")}}, or {{cssxref("padding-right")}} depending on the values set for {{cssxref("writing-mode")}}, {{cssxref("direction")}}, and {{cssxref("text-orientation")}}.
+The `padding-block-end` property takes the same values as physical padding properties such as {{cssxref("padding-right")}}. However, it can be equivalent to {{cssxref("padding-bottom")}}, {{cssxref(padding-top)}}, {{cssxref("padding-left")}}, or `padding-right` depending on the values set for {{cssxref("writing-mode")}}, {{cssxref("direction")}}, and {{cssxref("text-orientation")}}.
 
 It relates to {{cssxref("padding-block-start")}}, {{cssxref("padding-inline-start")}}, and {{cssxref("padding-inline-end")}}, which define the other padding values of the element.
 
